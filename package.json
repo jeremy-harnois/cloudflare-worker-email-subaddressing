@@ -1,0 +1,13 @@
+{
+  "name": "cloudflare-worker-email-subaddressing",
+  "description": "A Cloudflare email worker providing configurable email subaddressing (o.k.a. subaddress extension [RFC 5233]; a.k.a. detailed addressing, plus addresses, tagged addresses, mail extension, etc.)",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "echo `wrangler dev` not supported with email workers",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.5",
+    "wrangler": "^3.72.0"
+  }
+}
