@@ -192,7 +192,10 @@ dashboard](https://dash.cloudflare.com/) ...
 ## Contributions
 
 Contributions are welcome and are not limited to pull requests. Feel free to
-[open an issue](/issues/new) or [start a discussion](/discussions/new).
+[open an issue][contribute#issue] or [start a discussion][contribute#discuss].
+
+[contribute#discuss]: https://github.com/jeremy-harnois/cloudflare-worker-email-subaddressing/discussions/new
+[contribute#issue]: https://github.com/jeremy-harnois/cloudflare-worker-email-subaddressing/issues/new
 
 ## License
 
